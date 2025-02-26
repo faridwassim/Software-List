@@ -1,0 +1,2 @@
+#make sure that executable name is Correct
+msiexec.exe /i "Exe Name.msi" /quit /qn /norestart
